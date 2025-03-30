@@ -86,7 +86,7 @@ npm run build
 ---
 
 ## 📂 Repository Link
-[GitHub Repository](<insert_repo_link_here>)
+[GitHub Repository]([<https://github.com/JAAFIRST559/Web-App-with-Django-ReactJS?tab=readme-ov-file>])
 
 ---
 
